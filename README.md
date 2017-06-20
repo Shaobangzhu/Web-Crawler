@@ -1,6 +1,6 @@
 # Web-Crawler
 Web Crawler Projects
-1. 京东商品页面的爬取
+1. 京东商品页面的爬取        :     jdProduct.py
 2. 中国大学排名定向爬虫
 3. 亚马逊商品页面的爬取
 4. 淘宝商品比价定向爬虫
