@@ -7,5 +7,5 @@ Web Crawler Projects
 5. 百度/360搜索关键字提交   :     baidu360Key.py
 6. 股票数据定向爬虫         :     * StockCrawler*
 7. 网络图片的爬取与存储      :     imgCrawler.py
-8. 股票数据专业爬虫         :
+8. 股票数据专业爬虫(Scrapy) :     * StockScrapy
 9. IP地址归属地的自动查询    :     ipAddr.py
